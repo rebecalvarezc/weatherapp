@@ -18,7 +18,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd waetherapp\ app.py
+  cd weatherapp\ app.py
 ```
 
 Install dependencies
