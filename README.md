@@ -39,7 +39,6 @@ Please remember that api_keys are private, so I decided not to share mine in thi
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
-| :-------- | :------- | :--------------------------|
 |`city_name`| `string` | **Required**. city to fetch|
 
 ## Authors
