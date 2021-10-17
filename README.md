@@ -8,6 +8,7 @@ stored in a database and finally used in the app.
 
 
 ## Run Locally
+NOTE: Before running the project be sure to **introduce your own API key**.
 
 Clone the project
 
