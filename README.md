@@ -3,8 +3,8 @@ This app was created to access the weather of a given city by the user. To do so
 
 ## Lessons Learned
 In this project I learned about REST APIs and how to access and use the data they provide. I also familiarized myself with the APIs documentation and I applied and learn a lot abut the datetime library in python.
-Finally, I notice that the app runs a bit slow as it has to access the API everytime, so for a more efficient project, the data should be fecth and
-stored in a databased and then used in the app.
+Finally, I notice that the app runs a bit slow as it has to access the API everytime, so for a more efficient project, the data should be fetched first and then
+stored in a database and finally used in the app.
 
 
 ## Run Locally
