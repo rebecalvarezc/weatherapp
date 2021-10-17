@@ -1,4 +1,4 @@
-# Weather_app
+# 🌤Weather_app
 This app was created to access the weather of a given city by the user. To do so, I used https://openweathermap.org/ API to fetch the information.
 
 ## Lessons Learned
