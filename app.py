@@ -1,9 +1,6 @@
-# import tkinter as tk
 import datetime
 import time
-from pprint import pprint
 import requests
-import streamlit as st
 
 # API from openweatherapp.com
 api_key = ''
