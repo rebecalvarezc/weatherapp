@@ -25,7 +25,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  npm install requests
+  pip install requests
 ```
 
 
