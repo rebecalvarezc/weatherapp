@@ -25,8 +25,8 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  pip install requests
-```
+  pip install -r requirements.txt
+  ```
 
 
 ## API Reference
